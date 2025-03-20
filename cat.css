@@ -1,0 +1,20 @@
+fieldset{
+    border-radius: 10px;
+    background-color: ghostwhite;
+}
+table{
+    width:100%;
+}
+img{
+    width:150px;
+    height:150px;
+}
+button {
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color:#e68919;
+    color:white;
+}

@@ -1,0 +1,48 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcoral;
+}
+fieldset{
+    border-radius: 6px;
+    padding:60px;
+    background-color: transparent;
+    border:none;
+}
+input{
+    margin-bottom: 12px;
+    width:100%;
+    border:2px solid black;
+    padding:10px;
+    border-radius: 4px;
+}
+button{
+    padding:6px;
+    border:none;
+    background-color: #e68919;  
+    color:aliceblue;
+    font-weight: bolder;
+    font-size: larger;
+    cursor: pointer;
+    border-radius: 4px;
+}
+label{
+    margin-bottom: 12px;
+}
+button:hover{
+    background-color: #ae3f10;  
+}
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.skipUZrG3c6W4EvBK_5WjwHaLk?rs=1&pid=ImgDetMain');
+    background-repeat: none;
+    
+    background-attachment: fixed;
+}
+label{
+    color: #ffcc00;
+}
+.heading{
+    color: #008CBA;
+}
+
